@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ustrell or iustrel if you are english speakin'
-- 👀 I’m interested in programming as a hobby
+- 👀 I’m interested in programming while it's a hobby
 - 🌱 I’m currently learning Python
 - 📫 To reach me: mailme at flow@ustrell.com
 
