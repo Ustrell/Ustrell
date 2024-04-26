@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ustrell or iustrel if you are english speakin'
+- 👋 Hi, I’m @Ustrell
 - 👀 I’m interested in programming while it's funny
 - 🌱 I’m currently learning Python
-- 📫 To reach me: mailme at flow@ustrell.com
+
 
 
 <!---
