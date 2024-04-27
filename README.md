@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ustrell but call me Jordi
+- 👋 Hi, I’m @Ustrell but u can call me Jordi
 - 👀 I’m interested in programming while it's funny
 - 🌱 I’m currently learning Python
 
