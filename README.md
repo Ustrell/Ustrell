@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ustrell
 - 👀 I’m interested in programming while it's funny
-- 🌱 I’m currently learning Python *
+- 🌱 I’m currently learning Python
 
 
 
