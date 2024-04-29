@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ustrell
-- 👀 I’m interested in programing as long as it's fun
 - 🌱 I’m currently learning Python
 
 
